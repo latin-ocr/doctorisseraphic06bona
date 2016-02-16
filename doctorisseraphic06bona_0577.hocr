@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphic06bona_0577.png"; bbox 0 0 2296 3316; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 726 1322 1273 1364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 726 1322 1273 1364">
+     <span class='ocr_line' id='line_1_1' title="bbox 726 1322 1273 1364; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 726 1322 1273 1364; x_wconf 84' lang='lat' dir='ltr'><strong>IIIIIIIIIIIIIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 489 1433 1512 1525">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 489 1433 1512 1525">
+     <span class='ocr_line' id='line_1_2' title="bbox 489 1433 1512 1525; baseline -0.012 0"><span class='ocrx_word' id='word_1_2' title='bbox 489 1443 787 1525; x_wconf 75' lang='lat' dir='ltr'><strong>SANGTI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 844 1433 1512 1520; x_wconf 77' lang='lat' dir='ltr'><strong>BONAVENTURAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 568 1602 1455 1795">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 568 1602 1455 1795">
+     <span class='ocr_line' id='line_1_3' title="bbox 844 1602 1169 1648; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 844 1602 1169 1648; x_wconf 78' lang='lat' dir='ltr'><strong>GOLLATIONES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 568 1726 1455 1795; baseline -0.011 0"><span class='ocrx_word' id='word_1_5' title='bbox 568 1735 638 1795; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 666 1733 845 1794; x_wconf 85' lang='lat' dir='ltr'><strong>EVAN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 847 1732 1042 1792; x_wconf 79' lang='lat' dir='ltr'>GELIU</span> <span class='ocrx_word' id='word_1_8' title='bbox 1044 1731 1095 1789; x_wconf 86' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_9' title='bbox 1125 1730 1169 1789; x_wconf 80' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1196 1726 1455 1788; x_wconf 82' lang='lat' dir='ltr'>IOANNIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

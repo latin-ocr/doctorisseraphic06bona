@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphic06bona_0281.png"; bbox 0 0 2296 3316; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 730 1194 1281 1234">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 730 1194 1281 1234">
+     <span class='ocr_line' id='line_1_1' title="bbox 730 1194 1281 1234; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 730 1194 1003 1233; x_wconf 78' lang='lat' dir='ltr'><strong>SERAPHIOI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1030 1196 1281 1234; x_wconf 82' lang='lat' dir='ltr'><strong>DOOTORIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 491 1307 1518 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 491 1307 1518 1392">
+     <span class='ocr_line' id='line_1_2' title="bbox 491 1307 1518 1392; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 491 1307 789 1390; x_wconf 80' lang='lat' dir='ltr'><strong>SANGTI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 845 1310 1518 1392; x_wconf 77' lang='lat' dir='ltr'><strong>BONAVENTURAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 1467 1451 1647">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 1467 1451 1647">
+     <span class='ocr_line' id='line_1_3' title="bbox 818 1467 1199 1511; baseline 0.005 -2"><span class='ocrx_word' id='word_1_5' title='bbox 818 1467 1199 1511; x_wconf 73' lang='lat' dir='ltr'><strong>COMMENTARIUS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 566 1585 1451 1647; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 566 1585 636 1644; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 665 1585 1042 1647; x_wconf 79' lang='lat' dir='ltr'><strong>EVANGELIU</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1043 1587 1094 1645; x_wconf 88' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_9' title='bbox 1124 1586 1169 1645; x_wconf 76' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1190 1587 1451 1646; x_wconf 81' lang='lat' dir='ltr'>IOANNIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
